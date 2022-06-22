@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikolaiBa4
-- 👀 I’m interested in 
+- 👀 I’m interested in Ekology, Dogs, Tracking 
 - 🌱 I’m currently learning SoftUni Java Advanced
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me nikolai_ba4@abv.bg.
 
 <!---
