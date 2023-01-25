@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NikolaiBa4
-- 👀 I’m interested in Ekology, Dogs, Tracking 
-- 🌱 I’m currently learning SoftUni Java Advanced
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me nikolai_ba4@abv.bg.
+- 👀 I’m interested in Programing, Ecology, Dogs, Tracking and Camping
+- 🌱 I’m currently learning SoftUni Spring Web advanced and Trakian Univercity Ecology(last year).
+- 💞️ I’m looking to collaborate in Ecological projects.
+- 📫 How to reach me  nikolai_ba4@abv.bg.
 
 <!---
 NikolaiBa4/NikolaiBa4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
